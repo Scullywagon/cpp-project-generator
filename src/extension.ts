@@ -4,7 +4,7 @@ import * as path from 'path';
 
 export function activate(context: vscode.ExtensionContext) {
 
-    let disposable = vscode.commands.registerCommand('cpp-project-generator.createProject', async () => {
+    let disposable = vscode.commands.registerCommand('scullywagons-cpp-project-generator.createProject', async () => {
 
         // Ask user for project name
         const projectName = await vscode.window.showInputBox({

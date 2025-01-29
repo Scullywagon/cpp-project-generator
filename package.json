@@ -1,8 +1,9 @@
 {
-  "name": "cpp-project-generator",
-  "displayName": "cpp-project-generator",
+  "name": "scullywagons-cpp-project-generator",
+  "displayName": "scullywagons-cpp-project-generator",
   "description": "generates a cpp project from a template",
   "version": "0.0.1",
+  "publisher": "Scullywagon",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -14,7 +15,7 @@
   "contributes": {
     "commands": [
       {
-        "command": "cpp-project-generator.createProject",
+        "command": "scullywagons-cpp-project-generator.createProject",
         "title": "Create New CPP Project"
       }
     ]
