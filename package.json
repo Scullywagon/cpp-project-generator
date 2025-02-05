@@ -2,7 +2,7 @@
   "name": "scullywagons-cpp-project-generator",
   "displayName": "scullywagons-cpp-project-generator",
   "description": "generates a cpp project from a template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Scullywagon",
   "engines": {
     "vscode": "^1.96.0"
